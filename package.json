@@ -1,0 +1,12 @@
+{
+  "name": "birthday-input",
+  "version": "0.0.1",
+  "description": "Birthday input with zodiac signs and validation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["input", "birthday-input", "zodiac-signs"],
+  "author": "Gabriel Mareken",
+  "license": "MIT"
+}
